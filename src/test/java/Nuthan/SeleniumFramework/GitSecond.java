@@ -6,5 +6,10 @@ public class GitSecond {
 		System.out.println("this is my second example");
 
 	}
+	
+	public static void add()
+	{
+		System.out.println("good morning");
+	}
 
 }
