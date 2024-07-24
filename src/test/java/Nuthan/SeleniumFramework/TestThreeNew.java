@@ -6,5 +6,17 @@ public class TestThreeNew {
 		System.out.println("new test three");
 
 	}
+	
+	public static void run()
+	{
+		System.out.println("run");
+	}
+	
+	public static void walk()
+	{
+		System.out.println("walk");
+	}
+	
+	
 
 }
