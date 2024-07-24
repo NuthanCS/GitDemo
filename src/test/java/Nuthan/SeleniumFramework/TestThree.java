@@ -1,9 +1,9 @@
 package Nuthan.SeleniumFramework;
 
-public class TestOne {
+public class TestThree {
 
 	public static void main(String[] args) {
-		System.out.println("first test");
+		System.out.println("test three");
 
 	}
 
